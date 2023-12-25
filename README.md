@@ -1,2 +1,2 @@
 # PROJECT_METEO
-Project realized on STM32. Control pressure and temperature sensor BMP280, sensor humidity and temperature DHT11. Data printed on LCD Nokia 5110. Also calculate and printed dew point temperature.
+Проект мини метеостанции на базе микроконтроллера STM32F0 DISCOVERY. Реализовано управление датчиком давления и температуры BMP280, датчиком температуры и влажности DHT11. Параметры выводятся на дисплей LCD NOKIA 5110. Также реализован расчет температуры точки росы.
